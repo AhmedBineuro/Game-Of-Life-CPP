@@ -6,3 +6,13 @@ The classic game of life, now, in C++! You get to C++ more occur with the higher
 - **Space**: step once in the simulation
 - **Up** and **Down**: respectively increase and decrease the number of frames per second
 - **P**: pause and unpause the simulation
+## Build Information
+### Requirements
+- [SFML](https://www.sfml-dev.org/)
+- C++ compiler
+- Makefile
+### How to build
+- Simply run
+```shell
+make main
+```
