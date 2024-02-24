@@ -12,6 +12,8 @@
 - [SFML](https://www.sfml-dev.org/)
 - C++ compiler
 - Makefile
+### More information
+- To test the limits of the simulation, mess with the `colSize` and `rowSize` to adjust the grid dimensions
 ### How to build
 - Simply run
 ```shell
